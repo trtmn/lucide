@@ -96,7 +96,7 @@
       "fast-json-patch": "^3.1.1",
       "form-data": "^4.0.4",
       "semver": "^7.7.3",
-      "vite-prerender-plugin": "0.5.12",
+      "vite-prerender-plugin": "0.5.13",
       "webpack-dev-middleware": "^5.3.4"
     }
   }
