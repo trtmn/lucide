@@ -58,8 +58,8 @@
     "prettier": "^3.4.2",
     "typescript": "^5.8.3",
     "vite": "^7.3.2",
-    "vitest": "^4.1.1",
-    "astro": "^6.1.10"
+    "vitest": "^5.0.1",
+    "astro": "^7.2.8"
   },
   "peerDependencies": {
     "astro": "^4 || ^5 || ^6"
